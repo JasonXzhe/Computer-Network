@@ -1,0 +1,4 @@
+\Copy of 123.txt.txt
+\Copy of artifacts.xml
+\Copy of eclipse.ini
+\Copy of eclipsec.exe
